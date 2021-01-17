@@ -1,4 +1,4 @@
-import climbStairs from './index';
+import climbStairs from './staircase';
 import { staircases } from './__mocks__/data';
 
 describe('climbStairs', () => {
