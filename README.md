@@ -1,4 +1,4 @@
-# algorithm-practice
+# Algorithm Practice
 
 My own way to learn and practice writing algorithms that are commonly tested during technical interviews. As a non-computer science student with no formal education on this topic, I have to find ways to streamline this process.
 
